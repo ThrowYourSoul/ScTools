@@ -33,10 +33,10 @@ dependencies {
 
 //添加
 publish {
-    userOrg = 'hyman'//bintray.com用户名
-    groupId = 'com.hyman'//jcenter上的路径
-    artifactId = 'basetools'//项目名称
+    userOrg = 'jzy'//bintray.com用户名
+    groupId = 'com.jzy'//jcenter上的路径
+    artifactId = 'sctools'//项目名称
     publishVersion = '1.0.0'//版本号
-    desc = 'Oh hi, this is a nice description for a project, right?'//描述，不重要
-    website = 'https://github.com/hyman/basetools'//网站，不重要；尽量模拟github上的地址，例如我这样的；当然你有地址最好了
+    desc = 'judge android desktop exits shortcut'
+    website = 'https://github.com/ThrowYourSoul/ScTools'
 }
